@@ -1,0 +1,10 @@
+{
+    "name": "Additional Clothing - Digital Flora Pack",
+    "author": "JustNU",
+    "version": "1.0.1",
+    "license": "NCSA",
+    "main": "package.js",
+	"dependencies": {
+        "A_JustNUCore": "1.0.0"
+    }
+}

@@ -1,0 +1,14 @@
+{
+	"AddClothingDigitalFlora_EMRCombatLower": {
+        "Name": "EMR Combat Pants"
+	},
+	"AddClothingDigitalFlora_EMRPolevoiLower": {
+        "Name": "EMR Pants"
+	},
+	"AddClothingDigitalFlora_EMRPolevoiUpper": {
+        "Name": "EMR Jacket"
+	},
+	"AddClothingDigitalFlora_EMRTigrUpper": {
+        "Name": "EMR Combat Shirt"
+	}
+}

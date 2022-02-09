@@ -1,0 +1,54 @@
+{
+    "manifest": [
+		{
+            "key": "AddClothingDigitalFlora/Tops/top_polevoi_emr.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+                "assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddClothingDigitalFlora/Bottoms/bottom_polevoi_emr.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+                "assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddClothingDigitalFlora/Bottoms/bottom_combat_emr.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders"
+            ]
+        },
+		{
+            "key": "AddClothingDigitalFlora/Tops/top_tiger_emr.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders"
+            ]
+        },
+		{
+            "key": "AddClothingDigitalFlora/Hands/hands_polevoi_emr.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "assets/content/hands/bear/bear_hands_watch_texture.bundles",
+                "assets/content/textures/holemanager/round_spec_mask.bundle",
+				"assets/content/hands/bear/bear_watch.bundle",
+				"shaders"
+            ]
+        },
+		{
+            "key": "AddClothingDigitalFlora/Hands/hands_tiger_emr.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "assets/content/hands/bear/bear_hands_watch_texture.bundles",
+                "assets/content/textures/holemanager/round_spec_mask.bundle",
+				"assets/content/hands/bear/bear_watch.bundle",
+				"shaders"
+            ]
+        }
+    ]
+}
